@@ -23,7 +23,7 @@ I am the founder of Digital Inqalab, an AI-driven education technology initiativ
 | **Adaptive Reader** | Python and Streamlit application that assists readers with dyslexia or low vision through read-aloud with word-by-word highlighting, text simplification, and progress tracking. | [Repository](https://github.com/kinzaamjad35-dev/adaptive-reader) |
 | **Resume and Job Matcher** | Python application that scores a CV against a job description, explains the result, and recommends improvements, including ATS checks and a recruiter mode. | [Repository](https://github.com/kinzaamjad35-dev/resume-job-matcher) · [Live demo](https://resume-job-matcher-24ddesoq2txwkbmpsrdtur.streamlit.app) |
 | **Nimrah's Maths Studio** | Browser-based tutor toolkit for AQA GCSE Mathematics (8300), including past papers, worked explanations and a practice question bank. | [Repository](https://github.com/kinzaamjad35-dev/nimrahs-maths-studio) · [Live site](https://kinzaamjad35-dev.github.io/nimrahs-maths-studio/) |
-| **The Brand Store** | Magento e-commerce site for laptop batteries, chargers and parts in Lahore, rebuilt and extended with an AI chat assistant, a photo-based model finder, and parts-by-model search. | [Live site](https://www.thebrandstore.pk) |
+| **The Brand Store** | Magento e-commerce site for laptop batteries, chargers and parts in Lahore, rebuilt and extended with an AI chat assistant, a photo-based model finder, and parts-by-model search. | [Repository](https://github.com/kinzaamjad35-dev/the-brand-store) · [Live site](https://www.thebrandstore.pk) |
 
 ## Technical Skills
 
