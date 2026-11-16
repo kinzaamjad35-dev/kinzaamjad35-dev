@@ -11,10 +11,10 @@ Machine learning developer in Lahore, Pakistan, working on time-series forecasti
 **Focus areas:** forecasting models, reliable language-model applications, accessible education software.
 
 **Tools:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white" alt="Magento">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Python-24292F?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-24292F?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/pandas-24292F?style=flat&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/scikit--learn-24292F?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Streamlit-24292F?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Magento-24292F?style=flat&logo=magento&logoColor=white" alt="Magento">
+<img src="https://img.shields.io/badge/Git-24292F?style=flat&logo=git&logoColor=white" alt="Git">
